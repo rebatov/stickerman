@@ -17,6 +17,11 @@ poetry install
 poetry run python sticker.py <FILE_PATH_TO_PNG_LOGO>
 ```
 
+## Examples
+![Sample 1](samples/1.png)
+![Sample 2](samples/2.png)
+![Sample 3](samples/3.png)
+
 ## TODO
 - Code refactor
 - Documentation
