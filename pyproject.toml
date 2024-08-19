@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "stickerman"
+version = "0.1.0"
+description = "Sticker generation for a logo"
+authors = ["rebatov <bishaldangal96@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+opencv-python = "^4.10.0.84"
+pyautotrace = "^0.0.4"
+numpy = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
